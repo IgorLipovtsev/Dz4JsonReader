@@ -1,0 +1,12 @@
+{
+  "name": "Schwartz Carey",
+  "gender": "male",
+  "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+  "books": [
+    {
+      "title": "Analysis, Vol I",
+      "author": "Tao, Terence",
+      "height": "248"
+    }
+  ]
+}
