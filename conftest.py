@@ -19,4 +19,4 @@ def csv_reader():
 
             list_of_rows.append(data)
 
-    return random.choice(list_of_rows)
+    return list_of_rows
